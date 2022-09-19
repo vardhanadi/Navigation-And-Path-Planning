@@ -1,0 +1,8 @@
+# Navigation-And-Path-Planning
+Navigation and path planning simulation
+
+#Drone 3D trajectory following
+![drone3D trajectory following](https://user-images.githubusercontent.com/13792078/190962648-34c206f1-153e-486f-806a-8edec98ef9ab.png)
+
+#Lidar to grid mapping
+![lidar 2 grid map](https://user-images.githubusercontent.com/13792078/190962665-18851f0c-1119-4d23-9b79-c0d144b3985a.png)
